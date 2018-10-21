@@ -1,3 +1,3 @@
 # mix-training
-Mix training for one-stage detector.
+Mix Training Network for accurate object detection.
 Coming soon.
